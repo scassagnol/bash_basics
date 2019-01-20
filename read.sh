@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 core.symlinks=false
 core.autocrlf=true
 core.fscache=true
@@ -27,3 +28,11 @@ gui.wmstate=normal
 gui.geometry=1322x693+152+152 254 315
 remote.origin.url=https://github.com/scassagnol/assignment.git
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+=======
+#!/bin/bash
+# read the name of the user and print hello
+
+echo "Hello! Shawna"
+read name
+
+>>>>>>> bafe7e34d97065e68d769f94c7a5588a65433e39
